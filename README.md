@@ -1,4 +1,4 @@
 PicoHttp
 ========
 
-PicoHttp is a framework for embedded HTTP services.
+PicoHttp is a Java framework for creating embedded HTTP services.
